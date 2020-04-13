@@ -7,9 +7,6 @@ Covid-19 is a global pandemic that puts millions of lives at risk everyday. Hosp
 ## What we are Doing!
 We are developing artificial intelligence algorithms, which can be used to determine COVID-19 risk status from auditory and visual data captured from anyone’s smartphone.
 
-## [Getting Started](https://virufy.github.io/)
-
-## [Web App](https://cough.sabae.cc/)
 
 ## Getting Started
 https://virufy.github.io/
