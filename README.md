@@ -1,15 +1,13 @@
 # COVID-19 Smartphone Detection
 
 <p align="center">
-  <img width="300" src="https://github.com/virufy/virufy.github.io/blob/master/img/virufy-logo.png">
+  <img width="300" src="http://virufy.org/images/logo.png">
 </p>
 
-## Why is this Important?
-Covid-19 is a global pandemic that puts millions of lives at risk everyday. Hospitals are becoming over-crowded, testing sites are breeding grounds for infection, and tests are not universally available.
+## Vision
+A tiny virus has brought society to a halt, while teaching us that we need to forget about fame and fortune and instead unite as a species globally!
 
-## What we are Doing!
-We are developing artificial intelligence algorithms, which can be used to determine COVID-19 risk status from auditory data captured from anyone’s smartphone.
+Our vision is to develop a smartphone app that can be used by everyone in the world to find out in minutes whether they have COVID-19. We are utilizing cutting-edge artificial intelligence technology to identify patterns undetectable by humans from the unique respiratory signatures of lungs damaged by the virus. From extensive research, we believe we can achieve 90% or more accuracy and bring an end to this pandemic!
 
-
-## Getting Started
-https://virufy.github.io/
+## Our Website
+http://virufy.org/
