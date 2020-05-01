@@ -10,4 +10,4 @@ A tiny virus has brought society to a halt, while teaching us that we need to fo
 Our vision is to develop a smartphone app that can be used by everyone in the world to find out in minutes whether they have COVID-19. We are utilizing cutting-edge artificial intelligence technology to identify patterns undetectable by humans from the unique respiratory signatures of lungs damaged by the virus. From extensive research, we believe we can achieve 90% or more accuracy and bring an end to this pandemic!
 
 ## Our Website
-http://virufy.org/
+https://virufy.org/
